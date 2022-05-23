@@ -9,11 +9,11 @@ terraform {
 
 provider "aci" {
   # cisco-aci user name
-  username = "admin"
+  username = " "
   # cisco-aci password
-  password = "C!Sco_1234"
+  password = " "
   # cisco-aci url
-  url      = "172.16.10.11"
+  url      = " "
   insecure = true
 }
 
